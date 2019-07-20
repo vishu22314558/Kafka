@@ -1,8 +1,9 @@
 # VishvaJeet Singh -  Kafka
-This is a repository for my Kafka Code
+This is a repository for -  Kafka Code
 
-![](download.png)
+![](Kafka.png)
 
 ## Content
 Basics of Kafka
+
 Twitter Producer
